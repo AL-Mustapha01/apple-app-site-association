@@ -1,7 +1,15 @@
+
 {
-    "webcredentials": {
-        "apps": [
-            "84SB5QF8F3.com.Scapu.Scapu"
-        ]
-    }
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": ["84SB5QF8F3.com.Scapu.Scapu"],
+        "paths": ["*"]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": ["84SB5QF8F3.com.Scapu.Scapu"]
+  }
 }
